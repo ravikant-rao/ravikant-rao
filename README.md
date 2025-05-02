@@ -44,12 +44,12 @@
 
 This repository contains a collection of projects I have worked on.
 
-
-| Name                   | Description                                                                         | Source Code | Deployed at |
+ 
+| Name                   | Description                                                                        | Source Code | Deployed at |
 | :--------------------- | :---------------------------------------------------------------------------------- | :---------- | :---------- |
 | **NetflixGpt** | A web app built with React, Tailwind CSS, and Firebase Auth, using the OMDB API to replicate a movie streaming interface with user login and movie Browse. | [Repo](https://github.com/ravikant-rao/netflixGpt)    | [Netlify](https://ntfxlive.netlify.app)  |
 | **Food Junction** | FooJunction is a dynamic web application built using React.js, Tailwind CSS. Integrating the Swiggy API pulling live restaurant and menu data via the Swiggy API.                             | [Repo](https://github.com/ravikant-rao/foodJunction)    | [Netlify](https://fdlive.netlify.app/)  |
-| **Nike** | A front-end replication of the Nike website's design and layout, built using only HTML, CSS, and JavaScript.                            | (N/A)  | (N/A)  |
+| **YouTube** | This is a web application built using React.js and styled with Tailwind CSS, designed to explore and display video content.                            | [Repo](https://github.com/ravikant-rao/youtubeHome)  | [Netlify](https://ythmlive.netlify.app/)  |
 
 
 
